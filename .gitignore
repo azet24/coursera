@@ -1,3 +1,5 @@
 /.venv
 /.vscode
 /coursera.code-workspace
+/.gitignore
+/sandbox.ipynb
